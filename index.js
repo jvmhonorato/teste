@@ -3,7 +3,7 @@ const obj = [
     {nome: 'Agda', email:'agda@gmail.com'}
 ]
 obj.push({nome:'hann', email:'hann@gmail.com'})
-obj.push({nome:'neide', email:'neide@gmail.com  '})
+obj.push({nome:'hannna', email:'hanna@gmail.com  '})
 
 
 const result = obj
